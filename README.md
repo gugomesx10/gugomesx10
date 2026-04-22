@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════ ANIMAÇÃO DE TEXTO ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=800&lines=🦇+GUSTAVO+GOMES+🦇;Dev+Back-end+Java+Jr.;🃏+Why+so+serious%3F;Gotham%27s+Finest+Developer;🎮+Gamer+%7C+Dev+%7C+Dark+Knight;Construindo+nas+sombras..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=800&lines=%F0%9F%A6%87+GUSTAVO+GOMES+%F0%9F%A6%87;Dev+Back-end+Java+Jr.;%F0%9F%83%8F+Why+so+serious%3F;Gotham%27s+Finest+Developer;%F0%9F%8E%AE+Gamer+%7C+Dev+%7C+Dark+Knight;Construindo+nas+sombras..." alt="Typing SVG" />
 
 <!-- ═══════════════ BANNER ASCII ═══════════════ -->
 ```
@@ -13,7 +13,7 @@
 ```
 
 <!-- ═══════════════ BADGES ═══════════════ -->
-[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-0d0d0d?style=for-the-badge&color=0d0d0d)](https://gugomesx10.github.io/Portf-lio-me/)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-0d0d0d?style=for-the-badge&color=0d0d0d)](https://gugomesx10.github.io/Portf-lio-me/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gustavo-gomes-martins/)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gustavogomesmartins4@icloud.com)
 
@@ -21,8 +21,16 @@
 
 <br>
 
+### 🌐 Conheça meu Portfólio
+
+> Acesse **[gugomesx10.github.io/Portf-lio-me](https://gugomesx10.github.io/Portf-lio-me/#home)** e veja meus projetos em ação.
+
+[![Ver Portfólio](https://img.shields.io/badge/🦇_Acessar_Portfólio_de_Gotham-F5A623?style=for-the-badge&logoColor=000000)](https://gugomesx10.github.io/Portf-lio-me/#home)
+
+<br>
+
 <!-- ═══════════════ GAMER EM MOVIMENTO ═══════════════ -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Gamer em ação" />
+<img src="https://media.giphy.com/media/B4jfJqiIxvU08/giphy.gif" width="380" alt="Batman série animada" />
 
 </div>
 
@@ -70,7 +78,7 @@ E como o Coringa... às vezes quebro as regras para encontrar a solução mais �
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Gaming" />
+<img src="https://media.giphy.com/media/14nmVmTMb4ZjWM/giphy.gif" width="200" alt="Batman vs Coringa" />
 
 > 🃏 *"Na Batcaverna também tem um setup gamer — e o Coringa nunca perde uma partida!"*
 

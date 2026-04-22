@@ -4,13 +4,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=F5A623&center=true&vCenter=true&width=800&lines=%F0%9F%A6%87+GUSTAVO+GOMES+%F0%9F%A6%87;Dev+Back-end+Java+Jr.;%F0%9F%83%8F+Why+so+serious%3F;Gotham%27s+Finest+Developer;%F0%9F%8E%AE+Gamer+%7C+Dev+%7C+Dark+Knight;Construindo+nas+sombras..." alt="Typing SVG" />
 
 <!-- ═══════════════ BANNER ASCII ═══════════════ -->
-```
+<pre align="center">
 ██████████████████████████████████████████████
 ██                                          ██
 ██   🦇  G U S T A V O   G O M E S  🦇    ██
 ██        Dev Back-end Java Jr.             ██
 ██████████████████████████████████████████████
-```
+</pre>
 
 <!-- ═══════════════ BADGES ═══════════════ -->
 [![Portfólio](https://img.shields.io/badge/🌐_Portfólio-0d0d0d?style=for-the-badge&color=0d0d0d)](https://gugomesx10.github.io/Portf-lio-me/#home)

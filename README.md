@@ -77,16 +77,16 @@ API REST em **Java 17 / Spring Boot 3** para gestão de saúde, vacinas, rotinas
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gugomesx10&show_icons=true&theme=default&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugomesx10&layout=compact&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gugomesx10&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugomesx10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gugomesx10&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gugomesx10&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gugomesx10&theme=react-dark&hide_border=false" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gugomesx10&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </div>
 
 ---
